@@ -1,9 +1,9 @@
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you
-agree to abide by the thoughtbot [code of conduct].
+agree to abide by the [code of conduct].
 
-[code of conduct]: https://hackforacause.com/open-source-code-of-conduct -- todo add this site to hackforacause
+[code of conduct]: https://hackforacause.com/conduct/
 
 Fork, then clone the repo:
 
@@ -19,7 +19,7 @@ some changes or improvements or alternatives.
 
 Some things that will increase the chance that your pull request is accepted:
 
-* Write tests(if applicable)
+* Write tests (if applicable)
 * Write a [good commit message][commit].
 
-http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+[commit]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
